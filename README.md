@@ -1,13 +1,13 @@
 ## Hi, I'm Katt!
-I enjoy animation, art, and I am a cat enthusiast. I'm also learning to code in Python!
+I enjoy animation, art, and I am a cat enthusiast. I'm also learning to code in Python...
 
 I enjoy working on my Homeassistant setup, and am eager to to contribute to the community by creating intergrations. 
 
 I'll say straight up that I use Cursor AI to help me code. Cursor implements my ideas, and I in turn I have said ideas, organise projects, make plans, and also stop it from destroying all the code it makes. 
 
-Hopefully some of my projects come in handy for you!
+Hopefully some of my projects come in handy for you 🎉
 
-<img src="https://kattcrazy.nz/wp-content/uploads/Starstriketalking-1-2.gif" width="300">
+<img src="https://kattcrazy.nz/wp-content/uploads/Starstriketalking-1-2.gif" width="200">
 
 ## Projects
 
