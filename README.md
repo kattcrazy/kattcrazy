@@ -1,5 +1,5 @@
-### Hi, I'm Katt!
-I love animation, art, and cats. I'm also learning to code in Python!
+## Hi, I'm Katt!
+I enjoy animation, art, and I am a cat enthusiast. I'm also learning to code in Python!
 
 I enjoy working on my Homeassistant setup, and am eager to to contribute to the community by creating intergrations. 
 
