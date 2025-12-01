@@ -9,10 +9,10 @@ Hopefully some of my projects come in handy for you!
 
 <img src="https://kattcrazy.nz/wp-content/uploads/Starstriketalking-1-2.gif" width="300">
 
+## Projects
 
-[![Taskbar Cat](https://github-readme-stats.vercel.app/api/pin/?username=kattcrazy&repo=taskbar-cat)](https://github.com/kattcrazy/taskbar-cat)
-
-[![Tuya Unsupported Sensors](https://github-readme-stats.vercel.app/api/pin/?username=kattcrazy&repo=tuya_unsupported_sensors )](https://github.com/kattcrazy/tuya_unsupported_sensors)
+[![taskbar-cat](https://img.shields.io/badge/taskbar--cat-Repo-blue?logo=github&style=for-the-badge)](https://github.com/kattcrazy/taskbar-cat)  
+[![tuya_unsupported_sensors](https://img.shields.io/badge/tuya__unsupported__sensors-Repo-purple?logo=github&style=for-the-badge)](https://github.com/kattcrazy/tuya_unsupported_sensors)
 
 
 Support me [here](https://kattcrazy.nz/product/support-me/)
