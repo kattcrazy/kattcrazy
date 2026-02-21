@@ -11,8 +11,8 @@ Hopefully some of my projects come in handy for you :)
 
 ## Projects
 
-[![tuya_unsupported_sensors](https://img.shields.io/badge/tuya__unsupported__sensors-Repo-purple?logo=github&style=for-the-badge)](https://github.com/kattcrazy/tuya_unsupported_sensors)
-[![server_statistics](https://img.shields.io/badge/server__statistics-Repo-purple?logo=github&style=for-the-badge)](https://github.com/kattcrazy/server-statistics)
-[![timeline_card](https://img.shields.io/badge/timeline__card-Repo-purple?logo=github&style=for-the-badge)](https://github.com/kattcrazy/timeline-card/)
+[![tuya_unsupported_sensors](https://img.shields.io/badge/tuya__unsupported__sensors-Repo-blue?logo=github&style=for-the-badge)](https://github.com/kattcrazy/tuya_unsupported_sensors)
+[![server_statistics](https://img.shields.io/badge/server__statistics-Repo-green?logo=github&style=for-the-badge)](https://github.com/kattcrazy/server-statistics)
+[![timeline_card](https://img.shields.io/badge/timeline__card-Repo-orange?logo=github&style=for-the-badge)](https://github.com/kattcrazy/timeline-card/)
 
 Support me [here](https://kattcrazy.nz/product/support-me/)
