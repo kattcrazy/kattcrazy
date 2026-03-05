@@ -4,7 +4,8 @@ I enjoy animation, art, and I am a cat enthusiast. I'm also learning to code in 
 I enjoy working on my Homeassistant setup, and am eager to to contribute to the community by creating intergrations. 
 
 While I learn Python, I use Cursor AI to help me code. Cursor implements my ideas, and I in turn I have said ideas, organise projects, make plans, debug and also stop it from destroying all the code it makes 😂
-I made my Cat Idenfier project by myself (see below badge), which I'm very proud of!
+
+I made my Cat Idenfier project (see below badge) by myself -no cursor-, which I'm very proud of!
 
 Hopefully some of my projects come in handy for you :)
 
