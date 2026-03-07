@@ -17,6 +17,6 @@ Hopefully some of my projects come in handy for you :)
 [![server_statistics](https://img.shields.io/badge/server__statistics-Repo-green?logo=github&style=for-the-badge)](https://github.com/kattcrazy/server-statistics)
 [![timeline_card](https://img.shields.io/badge/timeline__card-Repo-orange?logo=github&style=for-the-badge)](https://github.com/kattcrazy/timeline-card/)
 [![cat identifier](https://img.shields.io/badge/Cat__Identifier-Open-purple?logo=cat&logoColor=white&style=for-the-badge)](https://cat-identifier.kattcrazy.nz/)
-[![stacked_horizontal_bar_card](https://img.shields.io/badge/Stacked_Horizontal_Bar_Card-Open-blue?logo=cat&logoColor=white&style=for-the-badge)](https://github.com/kattcrazy/Stacked-Horizontal-Bar-Card)
+[![stacked_horizontal_bar_card](https://img.shields.io/badge/Stacked_Bar_Card-Open-blue?logo=cat&logoColor=white&style=for-the-badge)](https://github.com/kattcrazy/Stacked-Bar-Card)
 
 Support me [here](https://kattcrazy.nz/product/support-me/)
