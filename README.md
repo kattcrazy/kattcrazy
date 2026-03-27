@@ -7,10 +7,11 @@ I know some people don't like AI being used for coding. In my case, it helps me 
 Hopefully some of my projects come in handy for you :)
 
 
-## Fave Projects
+## My Projects
 [![cat_identifier](https://img.shields.io/badge/Cat_Identifier-Open-purple?logo=pipecat&logoColor=white&style=for-the-badge)](https://cat-identifier.kattcrazy.nz/)
 [![ha_win_kiosk](https://img.shields.io/badge/HA_WinKiosk-Repo-blue?logo=homeassistant&logoColor=white&style=for-the-badge)](https://github.com/kattcrazy/HA-WinKiosk)
 [![stacked_bar_card](https://img.shields.io/badge/Stacked_Bar_Card-Repo-green?logo=homeassistant&logoColor=white&style=for-the-badge)](https://github.com/kattcrazy/Stacked-Bar-Card)
 [![tuya_unsupported_sensors](https://img.shields.io/badge/Tuya_Unsupported_Sensors-Repo-orange?logo=homeassistant&logoColor=white&style=for-the-badge)](https://github.com/kattcrazy/tuya_unsupported_sensors)
+[![taskbar_cat](https://img.shields.io/badge/Taskbar_Cat-Repo-purple?logo=pipecat&logoColor=white&style=for-the-badge)](https://github.com/kattcrazy/taskbar-cat)
 
 Support me [here](https://kattcrazy.nz/product/support-me/)
