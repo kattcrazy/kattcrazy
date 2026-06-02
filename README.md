@@ -3,7 +3,7 @@
 
 Hiya :)
 
-I'm an animator, artist, and cat enthusiast. I enjoy working on my Home Assistant setup, coding, and am eager to to contribute to the open-source smart home community!
+I'm an animator, artist, cat enthusiast, and of course, developer! I enjoy working on my Home Assistant setup, coding, and am eager to to contribute to the open-source smart home community!
 
 I know some people don't like AI being used for coding. In my case, it helps me acomplish things I could never do on my own. I watch and monitor what it's doing closely, both to ensure it isn't being dumb and deleting the entirety of my Home Assistant installation ( <sup>yes, that happened</sup> ), and also to learn. I made my Cat Identifier project (unfortunately broken right now) by myself, no AI, which I'm very proud of!
 
