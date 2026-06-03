@@ -12,8 +12,8 @@ Hopefully some of my projects come in handy for you...
 #### My projects
 [![HA WinKiosk](https://img.shields.io/badge/HA%20WinKiosk-%2315BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/kattcrazy/HA-WinKiosk)
 [![Stacked Bar Card](https://img.shields.io/badge/Stacked%20Bar%20Card-%23FB923C?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/kattcrazy/Stacked-Bar-Card)
+[![Lost Entity Finder](https://img.shields.io/badge/Lost%20Entity%20Finder-%231565C0?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/kattcrazy/Entity-Finder)
 [![Tuya Unsupported Sensors](https://img.shields.io/badge/Tuya%20Unsupported%20Sensors-%23FF4800?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/kattcrazy/tuya_unsupported_sensors)
-[![Entity Finder](https://img.shields.io/badge/Entity%20Finder-%231565C0?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/kattcrazy/Entity-Finder)
 
 #### Coding tools
 ![image](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white) ![image](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
