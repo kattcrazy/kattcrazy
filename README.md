@@ -10,6 +10,7 @@ I know some people don't like AI being used for coding. In my case, it helps me 
 Hopefully some of my projects come in handy for you...
 
 #### My projects
+[![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
 [![HA WinKiosk](https://img.shields.io/github/stars/kattcrazy/HA-WinKiosk?style=for-the-badge&label=HA%20WinKiosk&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/HA-WinKiosk)
 [![Stacked Bar Card](https://img.shields.io/github/stars/kattcrazy/Stacked-Bar-Card?style=for-the-badge&label=Stacked%20Bar%20Card&labelColor=FB923C&color=FB923C)](https://github.com/kattcrazy/Stacked-Bar-Card)
 [![Lost Entity Finder](https://img.shields.io/github/stars/kattcrazy/Entity-Finder?style=for-the-badge&label=Lost%20Entity%20Finder&labelColor=1565C0&color=1565C0)](https://github.com/kattcrazy/Entity-Finder)
