@@ -9,15 +9,20 @@ I know some people don't like AI being used for coding. In my case, it helps me 
 
 Hopefully some of my projects come in handy for you...
 
-#### My projects
-[![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
+#### Home Assistant Projects
 [![HA WinKiosk](https://img.shields.io/github/stars/kattcrazy/HA-WinKiosk?style=for-the-badge&label=HA%20WinKiosk&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/HA-WinKiosk)
-[![Stacked Bar Card](https://img.shields.io/github/stars/kattcrazy/Stacked-Bar-Card?style=for-the-badge&label=Stacked%20Bar%20Card&labelColor=FB923C&color=FB923C)](https://github.com/kattcrazy/Stacked-Bar-Card)
 [![Lost Entity Finder](https://img.shields.io/github/stars/kattcrazy/Entity-Finder?style=for-the-badge&label=Lost%20Entity%20Finder&labelColor=1565C0&color=1565C0)](https://github.com/kattcrazy/Entity-Finder)
+[![Stacked Bar Card](https://img.shields.io/github/stars/kattcrazy/Stacked-Bar-Card?style=for-the-badge&label=Stacked%20Bar%20Card&labelColor=FB923C&color=FB923C)](https://github.com/kattcrazy/Stacked-Bar-Card)
 [![Tuya Unsupported Sensors](https://img.shields.io/github/stars/kattcrazy/tuya-unsupported-sensors?style=for-the-badge&label=Tuya%20Unsupported%20Sensors&labelColor=FF4800&color=FF4800)](https://github.com/kattcrazy/tuya-unsupported-sensors)
 
-#### Coding tools
-![image](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white) ![image](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+#### Wear OS Projects
+[![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
+[![TimeToPay](https://img.shields.io/github/stars/kattcrazy/TimeToPay?style=for-the-badge&label=TimeToPay&labelColor=5993f6&color=5993f6)]([https://github.com/kattcrazy/tuya-unsupported-sensors](https://github.com/kattcrazy/TimeToPay))
+
+#### Other Projects
+[![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
+
+Unrelated little notes...
 
 #### Special shoutout to
 ![image](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white)
