@@ -17,7 +17,7 @@ Hopefully some of my projects come in handy for you...
 
 #### Wear OS Projects
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
-[![TimeToPay](https://img.shields.io/github/stars/kattcrazy/TimeToPay?style=for-the-badge&label=TimeToPay&labelColor=5993f6&color=5993f6)]([https://github.com/kattcrazy/tuya-unsupported-sensors](https://github.com/kattcrazy/TimeToPay))
+[![TimeToPay](https://img.shields.io/github/stars/kattcrazy/TimeToPay?style=for-the-badge&label=TimeToPay&labelColor=5993f6&color=5993f6)]([https://github.com/kattcrazy/tuya-unsupported-sensors](https://github.com/kattcrazy/TimeToPay)
 
 #### Other Projects
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
