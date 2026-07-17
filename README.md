@@ -10,9 +10,9 @@ Hopefully some of my projects come in handy for you...
 
 #### Home Assistant Projects
 [![HA WinKiosk](https://img.shields.io/github/stars/kattcrazy/HA-WinKiosk?style=for-the-badge&label=HA%20WinKiosk&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/HA-WinKiosk)
-[![Lost Entity Finder](https://img.shields.io/github/stars/kattcrazy/Entity-Finder?style=for-the-badge&label=Lost%20Entity%20Finder&labelColor=1565C0&color=1565C0)](https://github.com/kattcrazy/Entity-Finder)
-[![Stacked Bar Card](https://img.shields.io/github/stars/kattcrazy/Stacked-Bar-Card?style=for-the-badge&label=Stacked%20Bar%20Card&labelColor=FB923C&color=FB923C)](https://github.com/kattcrazy/Stacked-Bar-Card)
-[![Tuya Unsupported Sensors](https://img.shields.io/github/stars/kattcrazy/tuya-unsupported-sensors?style=for-the-badge&label=Tuya%20Unsupported%20Sensors&labelColor=FF4800&color=FF4800)](https://github.com/kattcrazy/tuya-unsupported-sensors)
+[![Lost Entity Finder](https://img.shields.io/github/stars/kattcrazy/Entity-Finder?style=for-the-badge&label=Lost%20Entity%20Finder&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/Entity-Finder)
+[![Stacked Bar Card](https://img.shields.io/github/stars/kattcrazy/Stacked-Bar-Card?style=for-the-badge&label=Stacked%20Bar%20Card&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/Stacked-Bar-Card)
+[![Tuya Unsupported Sensors](https://img.shields.io/github/stars/kattcrazy/tuya-unsupported-sensors?style=for-the-badge&label=Tuya%20Unsupported%20Sensors&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/tuya-unsupported-sensors)
 
 #### Android Apps
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
