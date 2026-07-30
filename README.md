@@ -18,7 +18,7 @@ Hopefully some of my projects come in handy for you...
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
 [![TimeToPay](https://img.shields.io/github/stars/kattcrazy/TimeToPay?style=for-the-badge&label=TimeToPay&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/TimeToPay)
 [![Calendar2Alarm](https://img.shields.io/github/stars/kattcrazy/Calendar2Alarm?style=for-the-badge&label=Calendar2Alarm&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
-[![Quick Dice & Coin Flip](https://img.shields.io/github/stars/kattcrazy/Quick-Dice-Coin-Flip?style=for-the-badge&label=Quick%20Dice%20%26%20Coin%20Flip&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Quick-Dice-Coin-Flip)
+<!--- [![Quick Dice & Coin Flip](https://img.shields.io/github/stars/kattcrazy/Quick-Dice-Coin-Flip?style=for-the-badge&label=Quick%20Dice%20%26%20Coin%20Flip&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Quick-Dice-Coin-Flip) --->
 
 Unrelated little notes...
 
