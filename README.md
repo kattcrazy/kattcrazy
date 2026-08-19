@@ -3,11 +3,11 @@
 
 Hiya :)
 
-I'm an animator, artist, cat enthusiast, and of course, developer! I enjoy working on my Home Assistant setup, coding, and am eager to to contribute to the open-source smart home community!
+I'm an animator, artist, cat enthusiast, and of course, developer! I enjoy working on my Home Assistant setup, coding, and am eager to to contribute to the open-source community!
 
-I know some people don't like AI being used for coding. In my case, it helps me accomplish things I could never do on my own. I watch and monitor what it's doing closely, both to ensure it isn't being dumb and deleting the entirety of my Home Assistant installation ( <sup>yes, that happened</sup> ), and also to learn. 
+First off, I know some people don't like AI being used for coding. In my case, it helps me accomplish things I could never do on my own. I think of it kind of like a movie director & an animator. The director instructs the animator and makes sure the work is turning out like they planned and want, while the animator knows how to do the work. It's also inspired me to learn a little bit of code myself, but I can barely do anything 😂
 
-Why are so many of my repos archived? I have a habit of starting projects and never finishing them or maintaining them, so I've done this to take some pressure off myself. If you really need help, still make an issue and I may assist when I have time and feel like it 😉 Below are my active projects that I promise have no intention of discontinuing.
+Why are some of my repos archived? I have a habit of starting projects and never finishing them or maintaining them, so I've done this to take some pressure off myself. If you really need help, still make an issue and I may assist when I have time and feel like it 😉 Below are my active projects that I promise have no intention of discontinuing.
 
 
 #### Home Assistant Projects
@@ -18,6 +18,19 @@ Why are so many of my repos archived? I have a habit of starting projects and ne
 
 #### Android Apps
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
+
+#### Things I want to make (or I am making)
+- Wear OS app that makes a complication to let you know if you're using data/wifi/bt wifi/bt data/none
+- Pretty history graph card for HA that matches Stacked Bar Card
+- YT studio stats integration for HA
+- Google analytics integration for HA
+- Dice & coin flip Wear OS app
+- Chrome extension that adds calendar-colour backgrounds to your days in Google Calendar yearly view
+
+#### Personal/unmaintained projects
+[![Time To Pay](https://img.shields.io/badge/Time%20To%20Pay-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/TimeToPay)
+[![Calendar2Alarm](https://img.shields.io/badge/Calendar2Alarm-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
+[![Timeline Card](https://img.shields.io/badge/Timeline%20Card-Forks%20welcome%20with%20credit-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/timeline-card)
 
 #### Special shoutout to
 ![image](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white)
