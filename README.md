@@ -19,6 +19,11 @@ Why are some of my repos archived? I have a habit of starting projects and never
 #### Android Apps
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
 
+#### Personal/unmaintained projects
+[![Time To Pay](https://img.shields.io/badge/Time%20To%20Pay-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/TimeToPay)
+[![Calendar2Alarm](https://img.shields.io/badge/Calendar2Alarm-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
+[![Timeline Card](https://img.shields.io/badge/Timeline%20Card-Forks%20welcome%20with%20credit-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/timeline-card)
+
 #### Things I want to make (or I am making)
 - Wear OS app that makes a complication to let you know if you're using data/wifi/bt wifi/bt data/none
 - Pretty history graph card for HA that matches Stacked Bar Card
@@ -26,11 +31,6 @@ Why are some of my repos archived? I have a habit of starting projects and never
 - Google analytics integration for HA
 - Dice & coin flip Wear OS app
 - Chrome extension that adds calendar-colour backgrounds to your days in Google Calendar yearly view
-
-#### Personal/unmaintained projects
-[![Time To Pay](https://img.shields.io/badge/Time%20To%20Pay-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/TimeToPay)
-[![Calendar2Alarm](https://img.shields.io/badge/Calendar2Alarm-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
-[![Timeline Card](https://img.shields.io/badge/Timeline%20Card-Forks%20welcome%20with%20credit-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/timeline-card)
 
 And a couple of final notes...
 
