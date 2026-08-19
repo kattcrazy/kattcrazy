@@ -32,6 +32,8 @@ Why are some of my repos archived? I have a habit of starting projects and never
 [![Calendar2Alarm](https://img.shields.io/badge/Calendar2Alarm-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
 [![Timeline Card](https://img.shields.io/badge/Timeline%20Card-Forks%20welcome%20with%20credit-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/timeline-card)
 
+And a couple of final notes...
+
 #### Special shoutout to
 ![image](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
