@@ -38,6 +38,6 @@ And a couple of final notes...
 ![image](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-#### Support me
-[![Support Me](https://custom-icon-badges.demolab.com/badge/Via%20My%20Website-C1D2FF?style=for-the-badge&logo=kattcrazy&logoColor=white)](https://kattcrazy.nz/product/support-me)
-
+#### Links
+[![Support me](https://custom-icon-badges.demolab.com/badge/Support%20me-6959F6?style=for-the-badge&logo=kattcrazywhite&logoColor=white)](https://kattcrazy.nz/product/support-me)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-6959F6?style=for-the-badge&logo=kattcrazywhite&logoColor=white)](https://kattcrazy.nz/portfolio/)
