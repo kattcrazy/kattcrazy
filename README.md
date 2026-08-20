@@ -20,8 +20,8 @@ Why are some of my repos archived? I have a habit of starting projects and never
 [![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
 
 #### Personal/unmaintained projects
-[![Time To Pay](https://img.shields.io/badge/Time%20To%20Pay-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/TimeToPay)
-[![Calendar2Alarm](https://img.shields.io/badge/Calendar2Alarm-Forks%20welcome%20with%20credit-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
+[![Time To Pay](https://img.shields.io/badge/Time%20To%20Pay-Looking%20for%20co--maintainer-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/TimeToPay)
+[![Calendar2Alarm](https://img.shields.io/badge/Calendar2Alarm-Looking%20for%20co--maintainer-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Calendar2Alarm)
 [![Timeline Card](https://img.shields.io/badge/Timeline%20Card-Forks%20welcome%20with%20credit-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/timeline-card)
 
 #### Things I want to make (or I am making)
