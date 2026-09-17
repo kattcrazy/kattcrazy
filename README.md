@@ -26,7 +26,7 @@ Why are some of my repos archived? I have a habit of starting projects and never
 [![Timeline Card](https://img.shields.io/badge/Timeline%20Card-Forks/Contributions/Maintainers%20welcome-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/timeline-card)
 [![Dice & coin flip Wear OS app](https://img.shields.io/badge/3D%20Dice%20%26%20coin%20flip%20Wear%20OS%20app-happy%20to%20hand%20over%20code%20if%20I'm%20credited%21-5993F6?style=for-the-badge&labelColor=5993F6&color=5993F6)](https://kattcrazy.nz/contact)
 
-#### Things I want to make (or I am making)
+#### Things I think should exist
 - Pretty history graph card for HA that matches Stacked Bar Card
 - YT studio stats integration for HA
 - Google analytics integration for HA
