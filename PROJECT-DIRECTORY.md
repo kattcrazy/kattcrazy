@@ -29,6 +29,9 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 
 ## Up for adoption - no credit required
 
+**🟦🏠 YT studio stats integration for HA**
+<br> I have some code and notes I can share
+
 ## Looking for co-maintainer
 **🟩🏠 [Stacked Bar Card](https://github.com/kattcrazy/Stacked-Bar-Card)**
 
