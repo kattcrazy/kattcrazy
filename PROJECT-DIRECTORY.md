@@ -56,7 +56,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 **🟥📱 [TimeToPay](https://github.com/kattcrazy/TimeToPay)**
 <br>Automatically turn on NFC when your choice of wallet app is opened
 
-### Must make this idea at some point!
+## Must make this idea at some point!
 <br>Ideas that I love aren't on here 😉 I'll keep them secret until I make them!
 
 
