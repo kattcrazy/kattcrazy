@@ -10,7 +10,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 <br>🏠 = Home Assistant integration, card, or app
 <br>📱 = App (not necessarily a phone app that was just the best emoji I could find)
 <br>🟥 = Not maintained
-<br>🟧 = Minimally maintained
+<br>🟧 = Maintained (low priority)
 <br>🟩 = Maintained
 <br>🟦 = Doesn't exist (yet, hopefully)
 
