@@ -21,7 +21,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 **🟥📱 [Calendar2Alarm](https://github.com/kattcrazy/Calendar2Alarm)**
 <br>Turn calendar events into Wear OS alarms so it's impossible to miss meetings
 
-**🟧🏠 [Timeline Card](https://github.com/kattcrazy/timeline-card)**
+**🟥🏠 [Timeline Card](https://github.com/kattcrazy/timeline-card)**
 <br>Simple card much like the native HA activity card that can be adapted to display almost anything from logs to camera events
 
 **🟧🏠 [Lost Entity Finder](https://github.com/kattcrazy/Lost-Entity-Finder)**
