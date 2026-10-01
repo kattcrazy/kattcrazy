@@ -2,7 +2,7 @@ Hey all! This is my list of projects and ideas, their status, and a brief summar
 
 You may notice there's quite a few. That's because I keep thinking of ideas that deserve to exist. This list exists to (a) remind me that I don't need to create all my ideas, and (b) let  maintainers/developers know which of my ideas or repos they are welcome to adopt! 
 
-_(If you are looking for a repo or idea to maintain/develop, please take one of mine, I can't make them all!)_
+_(Please, if you are looking for a repo or idea to maintain or develop, take one of mine, I can't make and maintain them all!_ 😭 _)_
 
 If you want to adopt a project or idea, get in touch with me [here](https://summersketches.com/contact/) and I'll reply when I can.
 
@@ -57,6 +57,6 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 <br>Automatically turn on NFC when your choice of wallet app is opened
 
 ## Must make this idea at some point!
-<br>Ideas that I love aren't on here 😉 I'll keep them secret until I make them!
+Ideas that I love aren't on here 😉 I'll keep them secret until I make them!
 
 
