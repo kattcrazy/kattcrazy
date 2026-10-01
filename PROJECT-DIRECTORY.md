@@ -24,7 +24,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 **🟧🏠 [Timeline Card](https://github.com/kattcrazy/timeline-card)**
 <br>Simple card much like the native HA activity card that can be adapted to display almost anything from logs to camera events
 
-**🟧🏠 [Lost Entity Finder](https://github.com/kattcrazy/Entity-Finder)**
+**🟧🏠 [Lost Entity Finder](https://github.com/kattcrazy/Lost-Entity-Finder)**
 <br>Find and replace entities for Home Assistant
 
 ## Up for adoption - no credit required
@@ -43,7 +43,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 **🟩🏠 [HA WinKiosk](https://github.com/kattcrazy/HA-WinKiosk)**
 <br>Windows Kiosk app with MQTT sensors and commands
 
-**🟧🏠 [Tuya Unsupported Sensors](https://github.com/kattcrazy/tuya-unsupported-sensors)**
+**🟧🏠 [Tuya Unsupported Sensors](https://github.com/kattcrazy/Tuya-Unsupported-Sensors)**
 <br>Use the Tuya API to connect your Tuya devices that are marked as unsupported in the core Tuya intergration
 <br>Hoping to eventually phase this out and encourage users to contribute Tuya quirks to the whole of HA instead of having their device work just for them
 
