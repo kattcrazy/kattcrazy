@@ -8,7 +8,7 @@ I'm an animator, artist, cat enthusiast, and of course, developer! I enjoy worki
 
 First off, I know some people don't like AI being used for coding. Personally, it helps me accomplish things I could never dream of doing on my own. I think of it kind of like a movie director & an animator. The director instructs the animator on exactly how the movie should go, makes sure the work is turning out like they planned and want, and the animator knows how to do the work. It's also inspired me to learn a little bit of code myself, but I can barely do anything 😂
 
-Why are some of my repos archived? I have a habit of starting projects and never finishing them or maintaining them, so I've done this to take some pressure off myself. See all my projects [here](https://github.com/kattcrazy/kattcrazy/blob/main/PROJECT-DIRECTORY.md) - I have some up for 'adoption'!
+Why do some of my repos have an unmaintained notice? I have a habit of starting projects and never finishing or maintaining them, so I've done this to take some pressure off myself. See all my projects [here](https://github.com/kattcrazy/kattcrazy/blob/main/PROJECT-DIRECTORY.md) - I have some up for 'adoption'!
 
 
 #### Best Projects
