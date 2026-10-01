@@ -1,0 +1,34 @@
+name: Status badges
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - PROJECT-DIRECTORY.md
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update badge files
+        shell: pwsh
+        run: ./scripts/generate-badges.ps1 -Directory PROJECT-DIRECTORY.md -BadgeDir badges
+
+      - name: Commit badge files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- badges
+          if git diff --cached --quiet; then
+            echo "badges unchanged"
+          else
+            git commit -m "Update status badges"
+            git push
+          fi
