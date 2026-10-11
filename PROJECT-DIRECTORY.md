@@ -8,7 +8,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 
 **Emoji Key**
 <br>🏠 = Home Assistant integration, card, or app
-<br>📱 = App (not necessarily a phone app that was just the best emoji I could find)
+<br>📱 = App or website
 <br>🟥 = Not maintained
 <br>🟧 = Maintained (low priority)
 <br>🟩 = Maintained
@@ -42,6 +42,9 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 
 **🟩🏠 [HA WinKiosk](https://github.com/kattcrazy/HA-WinKiosk)**
 <br>Windows Kiosk app with MQTT sensors and commands
+
+**🟧📱 Adopt An Idea**
+<br>A public board where people can share ideas for programs, 'adopt' ideas and build them, or contribute suggestions.
 
 **🟧🏠 [Tuya Unsupported Sensors](https://github.com/kattcrazy/Tuya-Unsupported-Sensors)**
 <br>Use the Tuya API to connect your Tuya devices that are marked as unsupported in the core Tuya intergration
