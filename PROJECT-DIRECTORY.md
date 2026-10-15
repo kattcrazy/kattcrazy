@@ -1,10 +1,10 @@
-Hey all! This is my list of projects and ideas, their status, and a brief summary about each of them. 
+Hey all! This is my list of projects, their status, and a brief summary about each of them. 
 
-You may notice there's quite a few. That's because I keep thinking of ideas that deserve to exist. This list exists to (a) remind me that I don't need to create all my ideas, and (b) let  maintainers/developers know which of my ideas or repos they are welcome to adopt! 
+You may notice there's quite a few. That's because I keep thinking of projects that deserve to exist. This list exists to (a) remind me that I don't need to create all of them, and (b) let maintainers/developers know which of my projects or repos they are welcome to adopt! 
 
-_(Please, if you are looking for a repo or idea to maintain or develop, take one of mine, I can't make and maintain them all!_ 😭 _)_
+_(Please, if you are looking for a repo to maintain or develop, take one of mine, I can't make and maintain them all!_ 😭 _)_
 
-If you want to adopt a project or idea, get in touch with me [here](https://summersketches.com/contact/) and I'll reply when I can.
+If you want to adopt a project, get in touch with me [here](https://summersketches.com/contact/) and I'll reply when I can. You can find ideas up for adoption at [Adopt An Idea](https://adoptanidea.kattcrazy.nz/)!
 
 **Emoji Key**
 <br>🏠 = Home Assistant integration, card, or app
@@ -12,12 +12,8 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 <br>🟥 = Not maintained
 <br>🟧 = Maintained (low priority)
 <br>🟩 = Maintained
-<br>🟦 = Doesn't exist (yet, hopefully)
 
 ## Up for adoption - credit required
-**🟦📱 Have I Done This Yet**
-<br>A ADHD/productivity/time-blindness-helping app (phone, Wear OS, etc) that sends notifications or alarms until you confirm that you've done the thing that you were meant to be doing. Time-based, not event based, because it has no way of knowing that you've, for example, finished the chapter of the book that you were meant to be finishing or not. Users can quickly start a check-in task, e.g "check in every 5 minutes until I confirm that I have taken the trash out".
-
 **🟥📱 [Calendar2Alarm](https://github.com/kattcrazy/Calendar2Alarm)**
 <br>Turn calendar events into Wear OS alarms so it's impossible to miss meetings
 
@@ -26,11 +22,6 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 
 **🟧🏠 [Lost Entity Finder](https://github.com/kattcrazy/Lost-Entity-Finder)**
 <br>Find and replace entities for Home Assistant
-
-## Up for adoption - no credit required
-
-**🟦🏠 YT studio stats integration for HA**
-<br> I have some code and notes I can share
 
 ## Looking for co-maintainer
 **🟩🏠 [Stacked Bar Card](https://github.com/kattcrazy/Stacked-Bar-Card)**
@@ -43,8 +34,8 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 **🟩🏠 [HA WinKiosk](https://github.com/kattcrazy/HA-WinKiosk)**
 <br>Windows Kiosk app with MQTT sensors and commands
 
-**🟧📱 Adopt An Idea**
-<br>A public board where people can share ideas for programs, 'adopt' ideas and build them, or contribute suggestions.
+**🟧📱 [Adopt An Idea](https://adoptanidea.kattcrazy.nz/)**
+<br>A public board where people can share suggestions for programs, 'adopt' them and build them, or contribute to them.
 
 **🟧🏠 [Tuya Unsupported Sensors](https://github.com/kattcrazy/Tuya-Unsupported-Sensors)**
 <br>Use the Tuya API to connect your Tuya devices that are marked as unsupported in the core Tuya intergration
@@ -59,7 +50,7 @@ If you want to adopt a project or idea, get in touch with me [here](https://summ
 **🟥📱 [TimeToPay](https://github.com/kattcrazy/TimeToPay)**
 <br>Automatically turn on NFC when your choice of wallet app is opened
 
-## Must make this idea at some point!
-Ideas that I love aren't on here 😉 I'll keep them secret until I make them!
+## Must make this at some point!
+Projects that I love aren't on here 😉 I'll keep them secret until I make them!
 
 

@@ -14,7 +14,6 @@ $ColorHex = @{
     ([char]::ConvertFromUtf32(0x1F7E5)) = "E23B3B"
     ([char]::ConvertFromUtf32(0x1F7E7)) = "F0883E"
     ([char]::ConvertFromUtf32(0x1F7E9)) = "3FB950"
-    ([char]::ConvertFromUtf32(0x1F7E6)) = "15BCF2"
 }
 $SectionColor = "6959F6"
 
