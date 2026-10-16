@@ -12,13 +12,14 @@ Why do some of my repos have an unmaintained notice? I have a habit of starting 
 
 
 #### Best Projects
-[![HA WinKiosk](https://img.shields.io/github/stars/kattcrazy/HA-WinKiosk?style=for-the-badge&label=HA%20WinKiosk&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/HA-WinKiosk)
-[![Share My Thing](https://img.shields.io/github/stars/kattcrazy/Share-My-Thing?style=for-the-badge&label=Share%20My%20Thing&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
+[![HA WinKiosk](https://img.shields.io/badge/HA%20WinKiosk-15BCF2?style=for-the-badge&labelColor=15BCF2&color=15BCF2)](https://github.com/kattcrazy/HA-WinKiosk)
+[![Share My Thing](https://img.shields.io/badge/Share%20My%20Thing-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://github.com/kattcrazy/Share-My-Thing)
+[![Adopt an Idea](https://img.shields.io/badge/Adopt%20an%20Idea-5993f6?style=for-the-badge&labelColor=5993f6&color=5993f6)](https://adoptanidea.kattcrazy.nz/)
 
 #### Special shoutout to
 ![image](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=Home%20Assistant&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 #### Links
-[![Support me](https://custom-icon-badges.demolab.com/badge/Support%20me-6959F6?style=for-the-badge&logo=kattcrazywhite&logoColor=white)](https://kattcrazy.nz/product/support-me)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-6959F6?style=for-the-badge&logo=kattcrazywhite&logoColor=white)](https://kattcrazy.nz/portfolio/)
+[![Support me](https://img.shields.io/badge/Support%20me-6959F6?style=for-the-badge)](https://kattcrazy.nz/product/support-me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6959F6?style=for-the-badge)](https://kattcrazy.nz/portfolio/)
